@@ -1,5 +1,5 @@
 # IT Task Logger
----
+
 > React app to track IT department tasks and issues. Uses JSON-Server as a mock backend. Build as a part of Udemy course by Brad Traversy 
 
 ## Usage
